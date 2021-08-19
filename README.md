@@ -25,3 +25,8 @@
 ・注意点
 
 	freeglutは64bitバイナリなのでプロジェクトの方も64bitにする。
+	
+・プログラム実行時
+
+<img width="453" alt="2021-08-10 (10)" src="https://user-images.githubusercontent.com/87969378/130077048-8b2195aa-fbad-43b7-82a1-dca831dbab56.png">
+
